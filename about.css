@@ -209,7 +209,7 @@ header nav ul li a:hover:after {
 			}
 			.about-section-2 .section-2 .text p{
 				line-height: 35px;
-    				font-weight: bold;
+/*     				font-weight: bold; */
     				font-family: 'Raleway', sans-serif;
     				text-align: justify;
 				letter-spacing: 1px;
@@ -223,15 +223,15 @@ header nav ul li a:hover:after {
 				font-weight: 100;
 				letter-spacing: 2px;
 			}
-			@media(max-width: 1000px){
-				.about-section-2 .section-2{
+/* 			@media(max-width: 1000px){
+/* 				.about-section-2 .section-2{
 					width: 95%;
-				}
-			}
-			@media(max-width: 850px){
-				.about-section-2 .section-2{
+				} */
+			} */
+			@media(max-width: 950px){
+/* 				.about-section-2 .section-2{
 					width: 95%;
-				}
+				} */
 				.about-section-2 .section-2 img{
 					width: 80%;
 				}
@@ -367,7 +367,7 @@ footer{
 	/*height: 300px;*/
 	position: relative;
 	padding: 50px;
-	top: 100px;
+/* 	top: 100px; */
 	background-color: #000;
 }
 			.footer-sec{
