@@ -251,6 +251,7 @@ header nav ul li a:hover:after {
 	.about-section-2 .section-2 .text {
 		wudth: 100%;
 	}
+}
 			@media(max-width: 450px){
 				.head-2{
 					font-size: 30px
