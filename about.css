@@ -248,13 +248,13 @@ header nav ul li a:hover:after {
 				}
 			}
 			hr{
-	width: 50%;
+	width: 35%;
 	border: 1px solid #fd7d00;
 	border-radius: 100%;
 }
 .about-section-3{
 	position: relative;
-	top: 100px;
+/* 	top: 100px; */
 }
 .sec5-box{
 	width: 235px;
