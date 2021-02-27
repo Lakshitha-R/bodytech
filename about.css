@@ -233,15 +233,12 @@ header nav ul li a:hover:after {
 					width: 95%;
 				} */
 /* 			} */ 
-			@media(max-width: 850px){
-/* 				.about-section-2 .section-2{
-					width: 95%;
-				} */
-				.about-section-2 .section-2 img{
-					width: 80%;
+			@media (max-width: 850px){
+				.about-section-2 .section-2 img {
+				    width: 450px;
 				}
 				.about-section-2 .section-2 .text{
-					width: 80%;
+					width: 100%;
 				}
 			}
 @media(max-width: 740px){
