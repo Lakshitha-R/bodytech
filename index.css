@@ -505,9 +505,9 @@ hr{
 		width: 280px;
 		height:250px;
 	}
-/* 	.details{
-		bottom: -120px;
-	} */
+	.details{
+		bottom: -140px;
+	}
 }
 footer{
 	/*height: 300px;*/
