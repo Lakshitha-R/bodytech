@@ -257,14 +257,14 @@ header nav ul li a:hover:after {
 /* 	top: 100px; */
 }
 .sec5-box{
-	width: 235px;
+	width: 300px;
 	margin: auto;
 	padding: 10px;
 	position: relative;
 	height: 235px;
 	margin-top: 100px;
 	margin-bottom: 50px;
-	box-shadow: 0px 6px 28px #00000069, 0px -20px 19px 16px #00000012;
+	box-shadow: 0 0 20px rgb(0 0 0 / 20%);
 }
 .sec5-icon{
 	width: 100px;
@@ -276,7 +276,9 @@ header nav ul li a:hover:after {
 	box-shadow: 0px 6px 28px #00000069, 0px -20px 19px 16px #00000012;
 	border-radius: 50%;
 	top: -60px;
-	left: 70px;
+	left: 50%;
+	transform: translateX(-50%);
+	box-shadow: 0 0 20px rgb(0 0 0/50%);
 	background-color: #fff;
 }
 .sec5-icon img{
@@ -313,11 +315,11 @@ header nav ul li a:hover:after {
 	width: 80%;
 	display: flex;
 	flex-wrap: wrap-reverse;
-	margin: auto;
+	margin: 50px auto 90px;
 	justify-content: space-around;
 }
 .ab-sec-3 img{
-	width: 45%;
+	width: 330px;
 }
 .slide-caro{
 	width: 45%;
