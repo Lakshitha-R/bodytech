@@ -389,6 +389,11 @@ hr{
 		left: 55px;
 	} */
 }
+@media(max-width: 380px){
+	.sec5-box{
+		width: 200px;
+	}
+}
 #myBtn {
   display: none;
   position: fixed;
