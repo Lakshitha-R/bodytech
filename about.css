@@ -249,7 +249,7 @@ header nav ul li a:hover:after {
 		padding: 30px 35px;
 	}
 	.about-section-2 .section-2 .text {
-		wudth: 100%;
+		width: 100%;
 	}
 }
 			@media(max-width: 450px){
