@@ -61,6 +61,7 @@ header nav ul li a{
 
 }
 header nav ul li a:hover{
+	display: inline-block;
 	color: #fd7d00;
 }
 header nav ul li a:after {    
@@ -298,16 +299,17 @@ hr{
 	box-shadow: 0 0 30px rgb(0 0 0/20%);
 }
 .sec3-icon{
-	width: 90px;
+	width: 80px;
 	position: absolute;
-	height: 85px;
+	height: 80px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	box-shadow: 0 16px 28px #00000038, 0 10px 10px #ff150708;
+	box-shadow: 0 0 20px rgb(0 0 0/20%);
 	border-radius: 50%;padding: 10px;
 	top: -60px;
-	left: 90px;
+	left: 50px;
+	transform: translateX(-50%);
 	background-color: #fff;
 }
 .sec3-icon img{
