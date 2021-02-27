@@ -501,7 +501,9 @@ hr{
 			}
 		} */
 @media(max-width: 434px){
-	bottom: -120px;
+	.details{
+		bottom: -120px;
+	}
 }
 footer{
 	/*height: 300px;*/
