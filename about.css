@@ -362,7 +362,9 @@ hr{
 	}
 }
 @media(max-width: 500px){
-	.sec5-box:250px;
+	.sec5-box{
+		width:250px;
+	}
 }
 @media(max-width: 425px){
 /* 	.sec5-box{
