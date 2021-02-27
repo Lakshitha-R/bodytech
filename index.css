@@ -503,7 +503,7 @@ hr{
 @media(max-width: 434px){
 	.thumb{
 		width: 280px;
-		height:250px;
+		height:280px;
 	}
 	.details{
 		bottom: -140px;
