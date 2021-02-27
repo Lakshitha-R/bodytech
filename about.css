@@ -393,6 +393,9 @@ hr{
 	.sec5-box{
 		width: 200px;
 	}
+	.sec5-box p{
+		top: 30px;
+	}
 }
 #myBtn {
   display: none;
