@@ -122,6 +122,12 @@ header nav ul li a:hover:after {
 		top: 100px;
 		transition: 0.5s;
 	}
+	header nav ul li a{
+		display: inline-block;
+	}
+	header nav ul li a:hover{
+		color: #fd7d00;
+	}
 	header nav.active{ 
  	 	text-decoration: none;
   		left: 0px;
