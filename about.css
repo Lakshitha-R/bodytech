@@ -202,10 +202,11 @@ header nav ul li a:hover:after {
 				font-family: 'Raleway', sans-serif;
 			}
 			.about-section-2 .section-2 .text p{
-				text-align: center;
-				line-height: 25px;
-				font-weight: bold;
-				font-family: 'Raleway', sans-serif;
+				line-height: 35px;
+    				font-weight: bold;
+    				font-family: 'Raleway', sans-serif;
+    				text-align: justify;
+				letter-spacing: 1px;
 			}
 			.head-3{
 				color: #fd7d00;
