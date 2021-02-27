@@ -254,6 +254,11 @@ header nav ul li a:hover:after {
 		width: 350px;
 	}
 }
+@media(max-width: 500px){
+	.about-section-2 .section-2 img{
+		width: 280px;
+	}
+}
 			@media(max-width: 450px){
 				.head-2{
 					font-size: 30px
@@ -344,17 +349,25 @@ hr{
 	justify-content: space-around;
 }
 @media(max-width: 950px){
-	.ab-sec-3 img{
+/* 	.ab-sec-3 img{
 		width: 80%;
-	}
+	} */
 	.slide-caro{
 		width: 95%;
 	}
 }
-@media(max-width: 425px){
+@media(max-width:600px){
 	.sec5-box{
-		width: 190px;
+		width:250px;
 	}
+}
+@media(max-width: 500px){
+	.sec5-box:250px;
+}
+@media(max-width: 425px){
+/* 	.sec5-box{
+		width: 190px;
+	} */
 	.sec5-icon{
 		left: 55px;
 	}
