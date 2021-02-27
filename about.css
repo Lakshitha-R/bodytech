@@ -367,17 +367,18 @@ hr{
 		width: 95%;
 	}
 }
-@media(max-width:600px){
-	.sec5-box{
-		width:250px;
-	}
-}
+
 @media(max-width: 500px){
 	.sec5-box{
 		width:300px;
 	}
 	.ab-sec-3 img {
-    		width: 330px;
+    		width: 280px;
+	}
+}
+@media(max-width:480px){
+	.sec5-box{
+		width:250px;
 	}
 }
 @media(max-width: 425px){
