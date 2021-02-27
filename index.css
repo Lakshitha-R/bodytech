@@ -308,7 +308,7 @@ hr{
 	box-shadow: 0 0 20px rgb(0 0 0/20%);
 	border-radius: 50%;padding: 10px;
 	top: -60px;
-	left: 50px;
+	left: 50%;
 	transform: translateX(-50%);
 	background-color: #fff;
 }
@@ -517,6 +517,7 @@ hr{
 	}
 	.details h1{
 		font-size: 20px;
+		padding: 10px 0 24px;
 	}
 }
 footer{
