@@ -501,9 +501,12 @@ hr{
 			}
 		} */
 @media(max-width: 434px){
-	.details{
+	.thumb{
+		width: 280px;
+		height:250px;
+/* 	.details{
 		bottom: -120px;
-	}
+	} */
 }
 footer{
 	/*height: 300px;*/
