@@ -508,6 +508,12 @@ hr{
 	.details{
 		bottom: -140px;
 	}
+	.details p{
+		font-size: 14px;
+	}
+	.details h1{
+		font-size: 22px;
+	}
 }
 footer{
 	/*height: 300px;*/
