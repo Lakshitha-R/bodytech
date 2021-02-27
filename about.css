@@ -151,7 +151,7 @@ header nav ul li a:hover:after {
 /* 	position: relative;
 	top: 60px; */
 }
-@media(max-width: 510px){
+@media(max-width: 520px){
 	.head img{
 		width: 300px;
 	}
