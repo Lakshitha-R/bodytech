@@ -152,10 +152,23 @@ header nav ul li a:hover:after {
 }
 
 
-			.about-section-2{
-				width: 100%;
-				position: relative;
-				top:  100px;			}
+			.about-section-2 .section-2 .text p{
+   				 line-height: 35px;
+    				font-weight: bold;
+    				font-family: 'Raleway', sans-serif;
+    				text-align: justify;
+				letter-spacing: 1px;
+}
+.about-section-2 .section-2 {
+    /* width: 80%; */
+    margin: 15px 30px;
+    display: flex;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    box-shadow: 0 0 30px rgb(0 0 0 / 15%);
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
 			.head-2{
 				width: 100%;
 				text-align: center;
