@@ -61,7 +61,6 @@ header nav ul li a{
 
 }
 header nav ul li a:hover{
-	display: inline-block;
 	color: #fd7d00;
 }
 header nav ul li a:after {    
@@ -110,6 +109,10 @@ header nav ul li a:hover:after {
 		display: block;
 	}
 	.menu-toggle:hover{
+		color: #fd7d00;
+	}
+	header nav ul li a:hover{
+		display: inline-block;
 		color: #fd7d00;
 	}
 	header nav{
