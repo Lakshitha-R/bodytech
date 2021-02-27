@@ -151,6 +151,11 @@ header nav ul li a:hover:after {
 /* 	position: relative;
 	top: 60px; */
 }
+@media(max-width: 510px){
+	.head img{
+		width: 300px;
+	}
+}
 .about-section-2{
 	margin-bottom: 80px;
 }
