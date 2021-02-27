@@ -179,7 +179,7 @@ header nav ul li a:hover:after {
 				text-transform: uppercase;
 				font-family: 'Changa One', cursive;
 			}
-			.about-section-2 .section-2{
+/* 			.about-section-2 .section-2{
 				width: 80%;
 				margin: auto;
 				display: flex;
@@ -189,7 +189,7 @@ header nav ul li a:hover:after {
 
 				flex-wrap: wrap;
 				justify-content: space-around;
-			}
+			} */
 			.about-section-2 .section-2 img{
 				width: 40%;
 			}
