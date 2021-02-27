@@ -270,7 +270,7 @@ header nav ul li a:hover:after {
 /* 	top: 100px; */
 }
 .sec5-box{
-	width: 300px;
+	width: 400px;
 	margin: auto;
 	padding: 10px;
 	position: relative;
@@ -318,6 +318,8 @@ header nav ul li a:hover:after {
 }
 .sec5-box .name{
 	position: relative;
+	margin-right: 15px;
+	letter-spacing: 1px;
 	top: 70px;
 	text-align: right;
 	font-family: 'Raleway', sans-serif;
