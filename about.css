@@ -295,6 +295,8 @@ header nav ul li a:hover:after {
 .sec5-box p{
 	position: relative;
 	top: 70px;
+	line-height: 25px;
+	letter-spacing: 1px;
 	text-align: center;
 	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
