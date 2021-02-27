@@ -228,7 +228,7 @@ header nav ul li a:hover:after {
 					width: 95%;
 				} */
 			} */
-			@media(max-width: 950px){
+			@media(max-width: 850px){
 /* 				.about-section-2 .section-2{
 					width: 95%;
 				} */
@@ -326,7 +326,7 @@ header nav ul li a:hover:after {
 	display: flex;
 	justify-content: space-around;
 }
-@media(max-width: 850px){
+@media(max-width: 950px){
 	.ab-sec-3 img{
 		width: 80%;
 	}
