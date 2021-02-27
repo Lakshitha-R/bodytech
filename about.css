@@ -139,8 +139,14 @@ header nav ul li a:hover:after {
 		font-size: 25px;
 	}
 }
+.head{
+	background: black;
+	margin-top: 60px;
+	text-align: center;
+	padding: 100px 10px;
+}
 .head img{
-	width: 100%;
+	width: 500px;
 	position: relative;
 	top: 60px;
 }
