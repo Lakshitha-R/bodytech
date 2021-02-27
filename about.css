@@ -161,12 +161,12 @@ header nav ul li a:hover:after {
 }
 
 
-			.about-section-2 .section-2 .text p{
-   				 line-height: 35px;
-/*     				font-weight: bold; */
-    				font-family: 'Raleway', sans-serif;
-    				text-align: justify;
-				letter-spacing: 1px;
+.about-section-2 .section-2 .text p{
+	 line-height: 35px;
+/*  	 font-weight: bold; */
+    	 font-family: 'Raleway', sans-serif;
+    	 text-align: justify;
+	 letter-spacing: 1px;
 }
 .about-section-2 .section-2 {
     /* width: 80%; */
@@ -262,7 +262,7 @@ header nav ul li a:hover:after {
 					font-size: 25px;
 				}
 			}
-			hr{
+hr{
 	width: 35%;
 	border: 1px solid #fd7d00;
 	border-radius: 100%;
