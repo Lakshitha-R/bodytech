@@ -424,6 +424,10 @@ footer{
 	display: flex;
 	justify-content: space-around;
 }
+.foot-logo{
+	display: flex;
+	align-items: center;
+}
 .foot-logo img{
 	width: 250px;
 	height: auto;
