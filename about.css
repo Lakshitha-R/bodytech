@@ -351,6 +351,11 @@ hr{
 	display: flex;
 	justify-content: space-around;
 }
+@media(max-width: 1065px){
+	.sec5-box {
+		width: 300px;
+	}
+}
 @media(max-width: 950px){
 /* 	.ab-sec-3 img{
 		width: 80%;
