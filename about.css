@@ -20,9 +20,10 @@ header{
 /* 	box-shadow: 0 16px 28px rgb(0 0 0), 0 10px 10px rgba(0,0,0,0.22); */
 }
 header .logo{
-	color: #ff236a;
 	height: 100px;
-	font-family: 'Raleway', sans-serif;
+	color: #fd7d00;
+	font-family: 'Changa One', cursive;
+	letter-spacing: 1px;
 	line-height: 80px;
 	font-size: 34px;
 	float: left;
