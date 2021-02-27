@@ -249,6 +249,10 @@ header nav ul li a:hover:after {
 		width: 100%;
 	}
 }
+@media(max-width: 600px){
+	.about-section-2 .section-2 img{
+		width: 350px;
+	}
 			@media(max-width: 450px){
 				.head-2{
 					font-size: 30px
