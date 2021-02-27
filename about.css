@@ -112,6 +112,11 @@ header nav ul li a:hover:after {
 	}
 	.menu-toggle:hover{
 		color: #fd7d00;
+	}header nav ul li a{
+		display: inline-block;
+	}
+	header nav ul li a:hover{
+		color: #fd7d00;
 	}
 	header nav{
 		position: absolute;
