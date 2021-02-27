@@ -352,7 +352,7 @@ header nav ul li a:hover:after {
 					width: 80%;
 				}
 			}
-			footer{
+footer{
 	/*height: 300px;*/
 	position: relative;
 	padding: 50px;
@@ -364,6 +364,10 @@ header nav ul li a:hover:after {
 	margin: auto;
 	display: flex;
 	justify-content: space-around;
+}
+.foot-logo{
+	display: flex;
+	align-items: center;
 }
 .foot-logo img{
 	width: 250px;
