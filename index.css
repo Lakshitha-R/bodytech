@@ -295,7 +295,7 @@ hr{
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-bottom: 50px;
-	box-shadow: 0 16px 28px #00000038, 0 10px 10px #ff150708;
+	box-shadow: 0 0 30px rgb(0 0 0/20%);
 }
 .sec3-icon{
 	width: 90px;
@@ -488,6 +488,7 @@ hr{
 		}
 		.details p{
 			text-align: center;
+			font-size: 14px;
 			font-family: 'Raleway', sans-serif;
 		}
 		.thumb:hover .details p{
@@ -509,10 +510,10 @@ hr{
 		bottom: -140px;
 	}
 	.details p{
-		font-size: 14px;
+		font-size: 12px;
 	}
 	.details h1{
-		font-size: 22px;
+		font-size: 20px;
 	}
 }
 footer{
