@@ -229,6 +229,7 @@ header nav ul li a:hover:after {
 			.branch-1-lak{
 				width: 40%;
 				display: flex;
+				margin-bottom: 50px;
 				padding: 30px;
 				flex-wrap: wrap;
 				justify-content: space-around;
@@ -285,7 +286,22 @@ header nav ul li a:hover:after {
 				flex-wrap: wrap;
 				justify-content: space-around;
 			}
-			.contact-us-2 img{
+			.contact-us-2{
+				width: 80%;
+				position: relative;
+				top: 150px;
+				margin: auto;
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: space-around;
+			}
+			.contact-us-2 .heading-4{
+				width: 100%;
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: space-around;
+			}
+			.contact-us-2 .heading-4 img{
 				width: 48%;
 			}
 			.fa {
