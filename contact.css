@@ -172,7 +172,7 @@ header nav ul li a:hover:after {
 }
 @media(max-width: 800px) {
 	.pic{
-		height: 300px;
+		height: 400px;
 	}
 	.pic .img-overlay{
 		font-size: 45px;
@@ -180,7 +180,7 @@ header nav ul li a:hover:after {
 }
 @media(max-width: 500px) {
 	.pic{
-		height: 250px;
+		height: 400px;
 	}
 	.pic .img-overlay{
 		font-size: 40px;
