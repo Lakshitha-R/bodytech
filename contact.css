@@ -232,6 +232,8 @@ header nav ul li a:hover:after {
 				margin-bottom: 50px;
 				padding: 30px;
 				flex-wrap: wrap;
+				background-image: linear-gradient(to bottom,#121110, #272423, #3d3739, #514c52, #62646d);
+				color: white;
 				justify-content: space-around;
 				box-shadow: 0 0 20px rgba(0,0,0,.2);
 			}
@@ -259,6 +261,7 @@ header nav ul li a:hover:after {
 			}
 			iframe{
 				box-shadow: 0 0 20px rgba(0 0 0/10%);
+				margin-bottom: 25px;
 			}
 			@media(max-width: 1100px){
 				.branch-1-lak{
