@@ -618,7 +618,7 @@ footer{
 		padding-bottom: 20px;
 	}
 }
-@media(max-width: 800px){
+@media(max-width: 960px){
 	.footer-sec{
 		flex-wrap: wrap;
 	}
