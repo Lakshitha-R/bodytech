@@ -421,7 +421,7 @@ footer{
 	/*height: 300px;*/
 	position: relative;
 	padding: 50px;
-/* 	top: 100px; */
+	top: 100px;
 	background-color: #000;
 }
 			.footer-sec{
@@ -440,7 +440,7 @@ footer{
 /* 	height: 130px;/* */
 /* 	padding-top: 60px;
 	font-size: 50px; */
-*/	color: #fd7d00;
+	color: #fd7d00;
 	font-family: 'Raleway', sans-serif;
 	font-weight: 900;
 	justify-content: center;
@@ -464,6 +464,7 @@ footer{
 	display: flex;
 	line-height: 25px;
 	color: #fd7d00;
+	padding: 20px 20px 0 20px;
 	letter-spacing: 1px;
 	align-items: center;
 	flex-wrap: wrap;
@@ -490,6 +491,7 @@ footer{
 	color: #fd7d00;
 	text-align: center;
 	display: flex;
+	padding: 15px 20px 20px 20px;
 	align-items: center;
 	flex-wrap: wrap;
 	font-family: 'Raleway', sans-serif;
