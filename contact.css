@@ -299,6 +299,7 @@ header nav ul li a:hover:after {
 				width: 100%;
 				display: flex;
 				flex-wrap: wrap;
+				margin-top:30px;
 				justify-content: space-around;
 			}
 			.contact-us-2 .heading-4 img{
