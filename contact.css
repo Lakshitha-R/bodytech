@@ -203,6 +203,7 @@ header nav ul li a:hover:after {
 				margin: auto;
 				text-align: center;
 				font-size: 18px;
+				margin-top: 30px;
 				letter-spacing: 1px;
 				color: #000;
 				font-family: 'Raleway', sans-serif;
