@@ -302,7 +302,7 @@ header nav ul li a:hover:after {
 			}
 
 			.fa:hover {
-			    filter: brightness(50%);
+/* 			    filter: brightness(50%); */
 			    transform: rotateY(360deg);
 			}
 			.fa-facebook {
