@@ -209,9 +209,9 @@ header nav ul li a:hover:after {
 				line-height: 35px; 
 			}
 			@media(max-width: 500px){
-				.c-heading-lak{
+/* 				.c-heading-lak{
 					font-size: 40px;
-				}
+				} */
 				.c-heading-2-lak{
 					width: 95%;
 					font-size: 16px;
