@@ -385,7 +385,7 @@ header nav ul li a:hover:after {
 			}
 			@media(max-width: 966px){
 				.contact-us-2 img{
-					width: 80%;
+					width: 400px;
 
 				}
 				.c-text{
