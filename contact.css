@@ -299,11 +299,13 @@ header nav ul li a:hover:after {
 			  text-align: center;
 			  text-decoration: none;
 			  margin: 5px 2px;
+		   	  padding: 18px 20px;
 			}
 
 			.fa:hover {
 /* 			    filter: brightness(50%); */
 			    transform: rotateY(360deg);
+			    box-shadow: 0 3px 20px (0,0,0,.2);
 			}
 			.fa-facebook {
 			  background: #3B5998;
