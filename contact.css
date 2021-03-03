@@ -406,9 +406,9 @@ header nav ul li a:hover:after {
 			}
 footer{
 	/*height: 300px;*/
-	position: relative;
+/* 	position: relative; */
 	padding: 50px;
-	top: 170px;
+/* 	top: 170px; */
 	background-color: #000;
 }
 			.footer-sec{
