@@ -192,6 +192,7 @@ header nav ul li a:hover:after {
 				font-size: 35px;
 				font-family: 'Changa One', cursive;
 				color: #fd7d00;
+				margin-bottom: 20px;
 				letter-spacing: 2px;
 				font-weight: 100;
 				text-transform: uppercase;
@@ -332,11 +333,15 @@ header nav ul li a:hover:after {
 				font-weight: 100;
 				text-align: center;
 				list-style-type: none;
+				line-height: 30px;
+				letter-spacing: 1px;
 
 			}
 			.c-text p{
 				font-size: 18px;
 				color: #fd7d00;
+				line-height: 30px;
+				letter-spacing: 1px;
 				font-family: 'Raleway', sans-serif;
 				font-weight: 100;
 				list-style-type: none;
