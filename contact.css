@@ -190,11 +190,12 @@ header nav ul li a:hover:after {
 				width: 100%;
 				text-align: center;
 				font-size: 35px;
-				font-family: 'Changa One', cursive;
+/* 				font-family: 'Changa One', cursive; */
+				font-family: 'Raleway', sans-serif;
 				color: #fd7d00;
 				margin-bottom: 20px;
 				letter-spacing: 2px;
-				font-weight: 100;
+				font-weight: 1000;
 				text-transform: uppercase;
 			}
 			.c-heading-2-lak{
@@ -241,10 +242,11 @@ header nav ul li a:hover:after {
 				width: 100%;
 				text-align: center;
 				font-size: 30px;
-				font-family: 'Changa One', cursive;
+/* 				font-family: 'Changa One', cursive; */
+				font-family: 'Raleway', sans-serif;
 				color: #fd7d00;
 				letter-spacing: 2px;
-				font-weight: 100;
+				font-weight: 1000;
 				text-transform: uppercase;
 			}
 			.branch-1-lak .div2-lak{
