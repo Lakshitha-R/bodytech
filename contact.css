@@ -231,7 +231,7 @@ header nav ul li a:hover:after {
 				padding: 30px;
 				flex-wrap: wrap;
 				justify-content: space-around;
-				box-shadow: 0px 6px 12px #00000029, 4px 0px 16px 16px #00000012;
+				box-shadow: 0 0 20px rgba(0,0,0,.2);
 			}
 			.branch-1-lak .div1-lak{
 				width: 100%;
@@ -253,6 +253,9 @@ header nav ul li a:hover:after {
 				margin-top: 20px;
 				margin-bottom: 20px;
 				font-family: 'Raleway', sans-serif;
+			}
+			iframe{
+				box-shadow: 0 0 20px rgba(0,0,0,.2);
 			}
 			@media(max-width: 1100px){
 				.branch-1-lak{
