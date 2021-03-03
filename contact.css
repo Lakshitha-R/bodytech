@@ -305,7 +305,7 @@ header nav ul li a:hover:after {
 			.fa:hover {
 /* 			    filter: brightness(50%); */
 			    transform: rotateY(360deg);
-			    box-shadow: 0 3px 20px (0,0,0,.2);
+			    box-shadow: 0 3px 20px rgba(0,0,0,.2);
 			}
 			.fa-facebook {
 			  background: #3B5998;
