@@ -383,7 +383,7 @@ header nav ul li a:hover:after {
 					width: 95%;
 				}
 			}
-			@media(max-width: 750px){
+			@media(max-width: 966px){
 				.contact-us-2 img{
 					width: 80%;
 
