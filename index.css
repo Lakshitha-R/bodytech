@@ -445,7 +445,7 @@ hr{
 			flex-wrap: wrap;
 			overflow: hidden;
 			width: 400px;
-			box-shadow: 1px 5px 28px rgb(0 0 0 / 42%), 0px 6px 5px rgb(0 0 0 / 18%);
+			box shadow: 0 0 20px rgba(0,0,0,.2);
     
 		}
 		
